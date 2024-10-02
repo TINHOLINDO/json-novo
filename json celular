@@ -1,0 +1,52 @@
+[
+    {
+        "marca": "Apple",
+        "modelo": "iPhone 14",
+        "vendas": 70000000
+    },
+    {
+        "marca": "Samsung",
+        "modelo": "Galaxy A54",
+        "vendas": 45000000
+    },
+    {
+        "marca": "Xiaomi",
+        "modelo": "Redmi Note 12",
+        "vendas": 30000000
+    },
+    {
+        "marca": "Apple",
+        "modelo": "iPhone 14 Pro",
+        "vendas": 25000000
+    },
+    {
+        "marca": "Samsung",
+        "modelo": "Galaxy S23",
+        "vendas": 20000000
+    },
+    {
+        "marca": "Realme",
+        "modelo": "Realme 10",
+        "vendas": 18000000
+    },
+    {
+        "marca": "Oppo",
+        "modelo": "Oppo A78",
+        "vendas": 15000000
+    },
+    {
+        "marca": "Vivo",
+        "modelo": "Vivo Y100",
+        "vendas": 12000000
+    },
+    {
+        "marca": "OnePlus",
+        "modelo": "OnePlus Nord 3",
+        "vendas": 10000000
+    },
+    {
+        "marca": "Motorola",
+        "modelo": "Moto G Stylus",
+        "vendas": 9000000
+    }
+]
